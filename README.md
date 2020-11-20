@@ -8,9 +8,9 @@ Head over to [workbooks.aaron-powell.com](https://workbooks.aaron-powell.com) an
 
 ## Technical Information
 
-Bit Digital Workbooks are running on [Azure Static Websites](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=createfrontend_swa-github-cxa) as a completely static application in vanilla JavaScript (no frameworks!).
+Bit Digital Workbooks are running on [Azure Static Websites](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-0000-aapowell) as a completely static application in vanilla JavaScript (no frameworks!).
 
-You can learn more about how we build applications on [Azure Static Websites](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=createfrontend_swa-github-cxa) at the [Create:Front End event](https://aka.ms/mscreate).
+You can learn more about how we build applications on [Azure Static Websites](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-0000-aapowell) at the [Create:Front End event](https://aka.ms/mscreate).
 
 ## License
 
